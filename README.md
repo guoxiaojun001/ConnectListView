@@ -3,3 +3,6 @@
 
 ###截图
 ![](https://github.com/maning0303/ConnectListView/raw/master/screenshots/001.jpg)
+
+###TestActivity滑动ListView隐藏显示Title
+![](https://github.com/maning0303/ConnectListView/raw/master/screenshots/002.gif)
